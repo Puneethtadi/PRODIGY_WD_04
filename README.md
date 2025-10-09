@@ -1,2 +1,2 @@
-# PRODIGY_WD_04
+# PRODIGY_SD_04
 Internship Tasks - Prodigy Infotech (Software Development)
